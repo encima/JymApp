@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">JymApp</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_section2">Diets</string>
+    <string name="title_section1">Routines</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Jym</string>
+    <string name="add_settings">Add</string>
+    <string name="title_activity_add_routine">AddRoutine</string>
+
+</resources>
